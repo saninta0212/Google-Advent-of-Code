@@ -2,7 +2,7 @@
 
 [![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2025-blue)](https://adventofcode.com/)  
 [![Python](https://img.shields.io/badge/Python-3.11-green)](https://www.python.org/)  
-[![Progress](https://img.shields.io/badge/Progress-0%25-red)](#daily-challenges)
+[![Progress](https://img.shields.io/badge/Progress-8%25-blue)](#daily-challenges)
 
 This repository contains my solutions for **[Advent of Code](https://adventofcode.com/)** challenges. Each puzzle tests problem-solving, algorithmic thinking, and creative coding in Python (and potentially other languages).  
 

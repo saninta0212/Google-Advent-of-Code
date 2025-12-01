@@ -1,1 +1,115 @@
-# Google-Advent-of-Code-2025
+# Google Advent of Code
+
+[![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2025-blue)](https://adventofcode.com/)  
+[![Python](https://img.shields.io/badge/Python-3.11-green)](https://www.python.org/)  
+[![Progress](https://img.shields.io/badge/Progress-0%25-red)](#daily-challenges)
+
+This repository contains my solutions for **[Advent of Code](https://adventofcode.com/)** challenges. Each puzzle tests problem-solving, algorithmic thinking, and creative coding in Python (and potentially other languages).  
+
+I track my progress with day-wise badges and keep well-documented solutions for learning and reference.
+
+---
+
+## Table of Contents
+
+- [Project Structure](#project-structure)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Daily Challenges](#daily-challenges)  
+- [References](#references)  
+- [Contributing](#contributing)  
+
+---
+
+## Project Structure
+
+```
+advent-of-code/
+│
+├── 2025/
+│   ├── day01/
+│   │   ├── solution.py
+│   │   ├── input.txt
+│   │   └── README.md
+│   ├── day02/
+│   │   └── ...
+│   └── utils/
+│       └── helpers.py
+│
+├── README.md
+└── requirements.txt
+```
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git https://github.com/saninta0212/Google-Advent-of-Code-2025.git
+cd advent-of-code
+```
+
+2. (Optional) Set up a virtual environment:
+
+```bash
+python -m venv gaoc
+source venv/bin/activate
+```
+
+3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+> Most solutions rely on Python standard library; extras will be listed in `requirements.txt`.
+
+---
+
+## Usage
+
+Run the solution for a given day:
+
+```bash
+python 2025/day01/solution.py
+```
+
+Add any utility functions in `utils/helpers.py` to reuse across multiple days.
+
+---
+
+## Daily Challenges
+
+Track your progress visually with badges:
+
+| Day | Title | Status | Language | Notes |
+|-----|-------|--------|---------|-------|
+| 01  | Calorie Counting | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | Used `itertools.groupby` to sum grouped values efficiently. |
+> Status key:  
+> ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) Completed  
+> ![In Progress](https://img.shields.io/badge/⚠️-In_Progress-yellow) In Progress  
+> ⬜ Pending  
+
+---
+
+## References
+
+- **[Advent of Code Official Website](https://adventofcode.com/)**  
+- **[Python Standard Library](https://docs.python.org/3/library/)**  
+- **[Python `itertools`](https://docs.python.org/3/library/itertools.html)** – Useful for grouping, permutations, combinations.  
+- **[PEP 8 – Python Style Guide](https://pep8.org/)**  
+- **[Competitive Programming Python Tips](https://www.geeksforgeeks.org/python-programming-language/)**  
+
+---
+
+## Contributing
+
+- Fork the repository.  
+- Create a branch: `git checkout -b feature/day01-optimization`  
+- Submit a pull request with detailed notes.  
+
+---
+
+## Notes / Future Work

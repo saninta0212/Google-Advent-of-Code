@@ -84,7 +84,8 @@ Add any utility functions in `utils/helpers.py` to reuse across multiple days.
 
 | Day | Title | Status | Language | Notes |
 |-----|-------|--------|---------|-------|
-| 01  | Calorie Counting | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | Used `itertools.groupby` to sum grouped values efficiently. |
+| 01  | Secret Entrance | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | mod operations are cool |
+
 > Status key:  
 > ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) Completed  
 > ![In Progress](https://img.shields.io/badge/⚠️-In_Progress-yellow) In Progress  

@@ -73,7 +73,8 @@ pip install -r requirements.txt
 Run the solution for a given day:
 
 ```bash
-python 2025/day01/solution.py
+cd google_aoc_2025/advent-of-code/2025
+python -m day01.solution_part2
 ```
 
 Add any utility functions in `utils/helpers.py` to reuse across multiple days.

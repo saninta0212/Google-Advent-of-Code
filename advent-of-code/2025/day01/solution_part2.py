@@ -23,7 +23,7 @@ def move_dial(direction, steps, start):
             went_through_zero -= 1 if went_through_zero != 0 else 0
         new_position = move%100
     if start == 0:
-        went_through_zero -= 1 if went_through_zero != 0 else 0## When you start at zero and move the dial left, you result in neg number but you were at zero itwont count
+        went_through_zero -= 1 if went_through_zero != 0 else 0 ## When you start at zero and move the dial left, you result in neg number but you were at zero itwont count
     total_zero = went_through_zero+went_through_zero_steps
     print(f"went_through_zero: {went_through_zero}")
     print(f"went_through_zero_steps: {went_through_zero_steps}")

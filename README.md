@@ -47,7 +47,7 @@ advent-of-code/
 1. Clone the repository:
 
 ```bash
-git https://github.com/saninta0212/Google-Advent-of-Code-2025.git
+git https://github.com/saninta0212/Google-Advent-of-Code.git
 cd advent-of-code
 ```
 
@@ -82,8 +82,6 @@ Add any utility functions in `utils/helpers.py` to reuse across multiple days.
 
 ## Daily Challenges
 
-Track your progress visually with badges:
-
 | Day | Title | Status | Language | Notes |
 |-----|-------|--------|---------|-------|
 | 01  | Calorie Counting | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | Used `itertools.groupby` to sum grouped values efficiently. |
@@ -97,10 +95,8 @@ Track your progress visually with badges:
 ## References
 
 - **[Advent of Code Official Website](https://adventofcode.com/)**  
-- **[Python Standard Library](https://docs.python.org/3/library/)**  
-- **[Python `itertools`](https://docs.python.org/3/library/itertools.html)** – Useful for grouping, permutations, combinations.  
+- **[Python Standard Library](https://docs.python.org/3/library/)**   
 - **[PEP 8 – Python Style Guide](https://pep8.org/)**  
-- **[Competitive Programming Python Tips](https://www.geeksforgeeks.org/python-programming-language/)**  
 
 ---
 

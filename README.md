@@ -2,7 +2,7 @@
 
 [![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2025-blue)](https://adventofcode.com/)  
 [![Python](https://img.shields.io/badge/Python-3.11-green)](https://www.python.org/)  
-[![Progress](https://img.shields.io/badge/Progress-8%25-blue)](#daily-challenges)
+[![Progress](https://img.shields.io/badge/Progress-25%25-blue)](#daily-challenges)
 
 This repository contains my solutions for **[Advent of Code](https://adventofcode.com/)** challenges. Each puzzle tests problem-solving, algorithmic thinking, and creative coding in Python (and potentially other languages).  
 
@@ -87,7 +87,7 @@ Add any utility functions in `utils/helpers.py` to reuse across multiple days.
 |-----|-------|--------|---------|-------|
 | 01  | Secret Entrance | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | mod operations are cool |
 | 02  | Gift Shop | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | mod operations are cool pt 2 |
-| 03  | Lobby | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | Greedy |
+| 03  | Lobby | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | being greedy makes you faster |
 
 > Status key:  
 > ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) Completed  

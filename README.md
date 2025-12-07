@@ -89,7 +89,8 @@ Add any utility functions in `utils/helpers.py` to reuse across multiple days.
 | 02  | Gift Shop | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | mod operations are cool pt 2 |
 | 03  | Lobby | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | being greedy makes you faster |
 | 04  | Printing Department | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | Pruning trees |
-
+| 05  | Cafeteria | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | Merge Sort |
+| 06  | Trash Compactor | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | Array iteration |
 > Status key:  
 > ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) Completed  
 > ![In Progress](https://img.shields.io/badge/⚠️-In_Progress-yellow) In Progress  

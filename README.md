@@ -94,6 +94,8 @@ Add any utility functions in `utils/helpers.py` to reuse across multiple days.
 | 07  | Laboratories | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | Recursion & Memoization|
 | 08  | Playground | ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | Bruh what is this union find structure?? I barely passed 320 |
 | 09  |  Movie Theater | ![In Progress](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | kinda hit a wall on pt 2 |
+| 10  |  Factory | ![Pending](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | the problems are getting harder |
+| 11  |  Reactor | ![Pending](https://img.shields.io/badge/✓-Completed-brightgreen) | Python | DFS |
 
 > Status key:  
 > ![Completed](https://img.shields.io/badge/✓-Completed-brightgreen) Completed  
